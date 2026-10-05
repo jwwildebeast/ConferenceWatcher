@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-10-05T13:20:29.891178+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
     "timestamp": "2026-10-05T11:41:24.884952+00:00",
     "event": "seed_page_changed",
     "conference_id": "ieee-case",
