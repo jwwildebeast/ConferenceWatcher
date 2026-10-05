@@ -1,0 +1,116 @@
+# Curated conferences not covered by the CS/AI deadline aggregators (ai-deadlines,
+# ccf-deadlines) -- mainly industrial & systems engineering / OR / simulation venues.
+#
+# manual_base_score (0-100) is YOUR judgment call, not a computed value -- edit it
+# freely. score.py adds small, documented adjustments on top (years running,
+# sponsor-society tier) but never overrides this base.
+#
+# deadlines left as `null` are genuinely unverified -- don't trust a guess here.
+# scrape.url is checked by scrape_seed.py on every pipeline run; when the page
+# text changes it's flagged in the changelog for you to confirm and fill in,
+# rather than being auto-parsed (these pages aren't structured enough to parse
+# reliably without risking a wrong date).
+
+- id: iise-annual
+  title: IISE Annual Conference & Expo
+  full_name: Institute of Industrial and Systems Engineers Annual Conference & Expo
+  sponsor: IISE
+  years_running: 75
+  manual_base_score: 75
+  score_rationale: >
+    Flagship annual conference of IISE, the primary professional society for
+    industrial & systems engineers; broad research + case-study tracks, long
+    running history, ProQuest-indexed proceedings.
+  link: https://www.iise.org/annual/
+  scrape:
+    url: https://www.iise.org/annual/
+  instances:
+    - year: 2026
+      place: Arlington, TX
+      date: {start: 2026-05-16, end: 2026-05-19}
+      deadlines:
+        - {type: abstract, when: "2025-11-10T23:59:00", timezone: "America/New_York"}
+        - {type: paper, when: "2026-01-18T23:59:00", timezone: "America/New_York"}
+        - {type: notification, when: "2026-02-25T23:59:00", timezone: "America/New_York"}
+        - {type: camera_ready, when: "2026-03-22T23:59:00", timezone: "America/New_York"}
+
+- id: marcon
+  title: MARCON
+  full_name: Maintenance & Reliability Conference
+  sponsor: University of Tennessee Reliability & Maintainability Center
+  years_running: 30
+  manual_base_score: 40
+  score_rationale: >
+    Well-regarded, long-running (30 years) practitioner-focused conference in
+    maintenance & reliability engineering; narrower scope and smaller audience
+    than society-wide venues like IISE or INFORMS.
+  link: https://marcon.utk.edu/
+  scrape:
+    url: https://marcon.utk.edu/homepage/call-for-abstracts/
+  instances:
+    - year: 2027
+      place: Knoxville, TN
+      date: {start: 2027-03-01, end: 2027-03-04}
+      deadlines:
+        - {type: abstract, when: "2026-08-28T23:59:00", timezone: "America/New_York"}
+        - {type: notification, when: "2026-09-28T23:59:00", timezone: "America/New_York"}
+    - year: 2026
+      place: Knoxville, TN
+      date: {start: 2026-03-02, end: 2026-03-05}
+      deadlines: []  # not yet verified -- check scrape.url
+
+- id: informs-annual
+  title: INFORMS Annual Meeting
+  full_name: Institute for Operations Research and the Management Sciences Annual Meeting
+  sponsor: INFORMS
+  years_running: 70
+  manual_base_score: 85
+  score_rationale: >
+    Largest operations research / analytics society; its annual meeting is the
+    biggest general OR venue (thousands of attendees), very high visibility.
+  link: https://meetings.informs.org/wordpress/annual/
+  scrape:
+    url: https://meetings.informs.org/wordpress/annual/
+  instances: []  # deadlines not yet verified -- check scrape.url
+
+- id: wsc
+  title: WSC
+  full_name: Winter Simulation Conference
+  sponsor: IEEE / INFORMS / ACM / SCS (rotating sponsorship)
+  years_running: 55
+  manual_base_score: 80
+  score_rationale: >
+    The premier conference dedicated to modeling & simulation methodology,
+    broad multi-society sponsorship, long running history.
+  link: https://meetings.informs.org/wordpress/wsc2026/
+  scrape:
+    url: https://meetings.informs.org/wordpress/wsc2026/call-for-papers/
+  instances: []  # deadlines not yet verified -- check scrape.url
+
+- id: poms-annual
+  title: POMS Annual Conference
+  full_name: Production and Operations Management Society Annual Conference
+  sponsor: POMS
+  years_running: 35
+  manual_base_score: 65
+  score_rationale: >
+    Respected society-level conference for production/operations management
+    research; solid reputation but narrower draw than INFORMS or IISE.
+  link: https://www.poms.org/
+  scrape:
+    url: https://www.poms.org/
+  instances: []  # deadlines not yet verified -- check scrape.url
+
+- id: ieee-case
+  title: IEEE CASE
+  full_name: IEEE International Conference on Automation Science and Engineering
+  sponsor: IEEE Robotics and Automation Society
+  years_running: 20
+  manual_base_score: 60
+  score_rationale: >
+    IEEE-sponsored automation science & engineering conference; solid
+    reputation in its niche, smaller than the big general IE/OR venues.
+  link: https://2026.ieeecase.org/
+  scrape:
+    url: https://2026.ieeecase.org/
+  instances: []  # deadlines not yet verified -- check scrape.url

@@ -1,0 +1,15 @@
+Just some of the topics of interest:
+
+industrial and systems engineering
+computer science
+simulation
+optimization
+machine learning
+big data
+reinforcement learning
+large language models
+agent based modeling
+software development and architecture
+neural networks
+transformer models
+multi-modal models

@@ -1,0 +1,72 @@
+# Maps plain-English topics (as in topics_domains_fields.txt) to:
+#   tags      -> normalized topic tags used by the huggingface/ai-deadlines aggregator
+#                (lowercase, hyphenated; see fetch_aggregators.py's normalize_tag())
+#   seed_ids  -> ids in seed_conferences.yml (curated IE/OR/simulation venues)
+#
+# A conference matches a topic if it carries ANY of the tags/ids listed.
+# Add a new topic or widen an existing one by editing this file -- no code changes needed.
+
+industrial and systems engineering:
+  seed_ids: [iise-annual, marcon, informs-annual, wsc, poms-annual, ieee-case]
+
+computer science:
+  tags:
+    - computer-vision
+    - computer-graphics
+    - data-mining
+    - deep-learning
+    - human-computer-interaction
+    - image-processing
+    - information-retrieval
+    - information-systems
+    - knowledge-representation
+    - knowledge-graphs
+    - large-language-models
+    - machine-learning
+    - natural-language-processing
+    - optimization-methods
+    - pattern-recognition
+    - reasoning
+    - reinforcement-learning
+    - representation-learning
+    - robotics
+    - signal-processing
+    - software-engineering
+    - speech
+    - web-mining
+    - web-search
+
+simulation:
+  seed_ids: [wsc, marcon]
+
+optimization:
+  tags: [optimization-methods]
+  seed_ids: [informs-annual, wsc, poms-annual]
+
+machine learning:
+  tags: [machine-learning, deep-learning, representation-learning]
+
+big data:
+  tags: [data-mining, information-retrieval, information-systems, web-mining]
+
+reinforcement learning:
+  tags: [reinforcement-learning]
+
+large language models:
+  tags: [large-language-models, natural-language-processing]
+
+agent based modeling:
+  seed_ids: [wsc, informs-annual]
+  tags: [reasoning]
+
+software development and architecture:
+  tags: [software-engineering]
+
+neural networks:
+  tags: [machine-learning, deep-learning, computer-vision, natural-language-processing, speech, signal-processing]
+
+transformer models:
+  tags: [large-language-models, natural-language-processing, machine-learning]
+
+multi-modal models:
+  tags: [computer-vision, natural-language-processing, speech, machine-learning]

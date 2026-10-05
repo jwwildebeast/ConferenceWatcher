@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ConferenceWatcher</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>ConferenceWatcher</h1>
+    <p>Automatically tracked conference deadlines across industrial/systems engineering, CS, and AI — scored by reputation, refreshed on a schedule, with every change recorded below.</p>
+    <div class="subscribe-row">
+      <a id="sub-watchlist" class="btn primary" href="calendar-watchlist.ics">Subscribe: My Watchlist</a>
+      <a id="sub-all" class="btn" href="calendar-all.ics">Subscribe: Everything</a>
+    </div>
+  </header>
+
+  <main>
+    <div class="topic-chips" id="topic-chips"></div>
+
+    <div class="controls">
+      <input type="text" id="search" placeholder="Search conference name…" />
+      <label>
+        Sort by
+        <select id="sort-by">
+          <option value="deadline">Next deadline</option>
+          <option value="score">Reputation score</option>
+        </select>
+      </label>
+      <span id="count" class="basis-manual"></span>
+    </div>
+
+    <table id="conf-table">
+      <thead>
+        <tr>
+          <th>Conference</th>
+          <th>Next deadline</th>
+          <th>Place</th>
+          <th>Score</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <section class="changelog">
+      <h2>Recent changes</h2>
+      <div id="changelog-list"></div>
+    </section>
+  </main>
+
+  <footer>
+    Updated automatically. Sources: huggingface/ai-deadlines + curated seed list. Not affiliated with any conference or society listed.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

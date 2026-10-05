@@ -1,0 +1,39 @@
+name: Update conference data
+
+on:
+  schedule:
+    - cron: "0 13 * * *"  # daily at 13:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        working-directory: scripts
+        run: python pipeline.py | tee /tmp/pipeline.log
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "conference-watcher-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ docs/
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          SUMMARY=$(grep -E '^(done|[0-9]+ changelog)' /tmp/pipeline.log | tr '\n' ' ')
+          git commit -m "Auto-update conference data: ${SUMMARY}"
+          git push

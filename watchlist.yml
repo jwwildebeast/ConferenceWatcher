@@ -1,0 +1,23 @@
+# What you actually want on your personal calendar feed (docs/calendar-watchlist.ics).
+# Mix topics (matched via data/topic_map.yml) and/or specific conference names
+# (substring match against title/full_name) -- edit freely, no code changes needed.
+# The "all" feed (docs/calendar-all.ics) always has everything tracked, unfiltered.
+
+topics:
+  - industrial and systems engineering
+  - computer science
+  - simulation
+  - optimization
+  - machine learning
+  - big data
+  - reinforcement learning
+  - large language models
+  - agent based modeling
+  - software development and architecture
+  - neural networks
+  - transformer models
+  - multi-modal models
+
+conferences:
+  - IISE
+  - MARCON
