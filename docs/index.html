@@ -11,8 +11,14 @@
     <h1>ConferenceWatcher</h1>
     <p>Automatically tracked conference deadlines across industrial/systems engineering, CS, and AI — scored by reputation, refreshed on a schedule, with every change recorded below.</p>
     <div class="subscribe-row">
-      <a id="sub-watchlist" class="btn primary" href="calendar-watchlist.ics">Subscribe: My Watchlist</a>
-      <a id="sub-all" class="btn" href="calendar-all.ics">Subscribe: Everything</a>
+      <details class="subscribe-dropdown">
+        <summary class="btn primary">Subscribe: My Watchlist ▾</summary>
+        <div class="dropdown-panel" data-feed="watchlist"></div>
+      </details>
+      <details class="subscribe-dropdown">
+        <summary class="btn">Subscribe: Everything ▾</summary>
+        <div class="dropdown-panel" data-feed="all"></div>
+      </details>
     </div>
   </header>
 
@@ -29,6 +35,10 @@
         </select>
       </label>
       <span id="count" class="basis-manual"></span>
+      <div class="view-toggle">
+        <button type="button" class="view-btn active" data-view="list">List</button>
+        <button type="button" class="view-btn" data-view="calendar">Calendar</button>
+      </div>
     </div>
 
     <table id="conf-table">
@@ -42,6 +52,16 @@
       </thead>
       <tbody></tbody>
     </table>
+
+    <div id="calendar-view" class="calendar-view" hidden>
+      <div class="calendar-nav">
+        <button type="button" id="cal-prev" class="btn">‹</button>
+        <span id="cal-month-label"></span>
+        <button type="button" id="cal-next" class="btn">›</button>
+        <button type="button" id="cal-today" class="btn">Today</button>
+      </div>
+      <div class="calendar-grid" id="calendar-grid"></div>
+    </div>
 
     <section class="changelog">
       <h2>Recent changes</h2>
