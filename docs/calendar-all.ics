@@ -148,26 +148,6 @@ DESCRIPTION:Conference site: https://3dvconf.github.io/2027/\nReputation s
 LOCATION:Thessaloniki\, Greece
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ECIR 2027 — Full paper submission deadline
-DTSTART:20261006T115959Z
-DTEND:20261006T115959Z
-DTSTAMP:20261006T115959Z
-UID:ecir27-paper@conferencewatcher
-DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
- : 21/100\nTopics: computer science\, big data
-LOCATION:Southampton\, United Kingdom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECIR 2027 — Short paper abstract deadline
-DTSTART:20261006T115959Z
-DTEND:20261006T115959Z
-DTSTAMP:20261006T115959Z
-UID:ecir27-abstract@conferencewatcher
-DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
- : 21/100\nTopics: computer science\, big data
-LOCATION:Southampton\, United Kingdom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ECIR 2027 — Short paper submission deadline
 DTSTART:20261013T115959Z
 DTEND:20261013T115959Z
