@@ -15,28 +15,6 @@ DESCRIPTION:Conference site: https://www.corl.org/\nReputation score: 21/1
 LOCATION:Austin\, United States
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WACV 2027 — Round 2 Reviews and Final Decisions to Authors
-DTSTART:20261010T115959Z
-DTEND:20261010T115959Z
-DTSTAMP:20261010T115959Z
-UID:wacv27-notification@conferencewatcher
-DESCRIPTION:Conference site: https://wacv.thecvf.com/\nReputation score: 7
- 3/100\nTopics: computer science\, machine learning\, neural networks\, tra
- nsformer models\, multi-modal models
-LOCATION:Buena Vista\, FL\, USA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WACV 2027 — Round 1 Final Decisions Released to Authors
-DTSTART:20261010T115959Z
-DTEND:20261010T115959Z
-DTSTAMP:20261010T115959Z
-UID:wacv27-notification@conferencewatcher
-DESCRIPTION:Conference site: https://wacv.thecvf.com/\nReputation score: 7
- 3/100\nTopics: computer science\, machine learning\, neural networks\, tra
- nsformer models\, multi-modal models
-LOCATION:Buena Vista\, FL\, USA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WACV 2027 — Camera Ready Both Rounds
 DTSTART:20261103T115959Z
 DTEND:20261103T115959Z
