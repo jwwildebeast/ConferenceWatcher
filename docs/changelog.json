@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2026-10-15T13:13:54.742557+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-15T13:13:54.742557+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "informs-annual",
+    "conference": "INFORMS Annual Meeting",
+    "url": "https://meetings.informs.org/wordpress/annual/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
     "timestamp": "2026-10-14T13:11:36.764425+00:00",
     "event": "seed_page_changed",
     "conference_id": "ieee-case",

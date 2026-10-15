@@ -4,17 +4,6 @@ PRODID:-//ConferenceWatcher//conferencewatcher//
 X-WR-CALNAME:ConferenceWatcher -- My Watchlist
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:CoRL 2026 — Camera-ready deadline
-DTSTART:20261013T115959Z
-DTEND:20261013T115959Z
-DTSTAMP:20261013T115959Z
-UID:corl26-camera_ready@conferencewatcher
-DESCRIPTION:Conference site: https://www.corl.org/\nReputation score: 21/1
- 00\nTopics: computer science\, machine learning\, neural networks\, transf
- ormer models\, multi-modal models
-LOCATION:Austin\, United States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WACV 2027 — Camera Ready Both Rounds
 DTSTART:20261103T115959Z
 DTEND:20261103T115959Z
@@ -124,26 +113,6 @@ DESCRIPTION:Conference site: https://3dvconf.github.io/2027/\nReputation s
  core: 38/100\nTopics: computer science\, machine learning\, neural network
  s\, transformer models\, multi-modal models
 LOCATION:Thessaloniki\, Greece
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECIR 2027 — Short paper submission deadline
-DTSTART:20261013T115959Z
-DTEND:20261013T115959Z
-DTSTAMP:20261013T115959Z
-UID:ecir27-submission@conferencewatcher
-DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
- : 21/100\nTopics: computer science\, big data
-LOCATION:Southampton\, United Kingdom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECIR 2027 — Reproducibility abstract deadline
-DTSTART:20261013T115959Z
-DTEND:20261013T115959Z
-DTSTAMP:20261013T115959Z
-UID:ecir27-abstract@conferencewatcher
-DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
- : 21/100\nTopics: computer science\, big data
-LOCATION:Southampton\, United Kingdom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ECIR 2027 — Reproducibility paper submission deadline
@@ -415,17 +384,6 @@ DESCRIPTION:Conference site: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
  \nReputation score: 70/100\nTopics: computer science\, machine learning\, 
  neural networks\, transformer models\, multi-modal models
 LOCATION:Hanoi\, Vietnam
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NAACL 2027 — Paper Deadline
-DTSTART:20261013T115959Z
-DTEND:20261013T115959Z
-DTSTAMP:20261013T115959Z
-UID:naacl27-paper@conferencewatcher
-DESCRIPTION:Conference site: https://2027.naacl.org/\nReputation score: 73
- /100\nTopics: computer science\, large language models\, neural networks\,
-  transformer models\, multi-modal models
-LOCATION:San Francisco\, USA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WWW 2027 — Abstract Submission
