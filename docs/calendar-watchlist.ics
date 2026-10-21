@@ -386,17 +386,6 @@ DESCRIPTION:Conference site: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
 LOCATION:Hanoi\, Vietnam
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WWW 2027 — Abstract Submission
-DTSTART:20261019T115959Z
-DTEND:20261019T115959Z
-DTSTAMP:20261019T115959Z
-UID:www27-abstract@conferencewatcher
-DESCRIPTION:Conference site: https://www2027.thewebconf.org/\nReputation s
- core: 21/100\nTopics: computer science\, machine learning\, big data\, neu
- ral networks\, transformer models\, multi-modal models
-LOCATION:Dublin\, Ireland
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WWW 2027 — Paper Submission
 DTSTART:20261026T115959Z
 DTEND:20261026T115959Z
