@@ -15,18 +15,6 @@ DESCRIPTION:Conference site: https://wacv.thecvf.com/\nReputation score: 7
 LOCATION:Buena Vista\, FL\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AAAI 2027 — Author feedback window start
-DTSTART:20261020T115959Z
-DTEND:20261020T115959Z
-DTSTAMP:20261020T115959Z
-UID:aaai27-rebuttal_start@conferencewatcher
-DESCRIPTION:Conference site: https://aaai.org/conference/aaai/aaai-27/\nRe
- putation score: 92/100\nTopics: computer science\, machine learning\, big 
- data\, large language models\, neural networks\, transformer models\, mult
- i-modal models
-LOCATION:Montréal\, Canada
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AAAI 2027 — Author feedback window end
 DTSTART:20261026T115959Z
 DTEND:20261026T115959Z
@@ -113,16 +101,6 @@ DESCRIPTION:Conference site: https://3dvconf.github.io/2027/\nReputation s
  core: 38/100\nTopics: computer science\, machine learning\, neural network
  s\, transformer models\, multi-modal models
 LOCATION:Thessaloniki\, Greece
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECIR 2027 — Reproducibility paper submission deadline
-DTSTART:20261020T115959Z
-DTEND:20261020T115959Z
-DTSTAMP:20261020T115959Z
-UID:ecir27-submission@conferencewatcher
-DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
- : 21/100\nTopics: computer science\, big data
-LOCATION:Southampton\, United Kingdom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ECIR 2027 — Doctoral Consortium abstract deadline
