@@ -15,18 +15,6 @@ DESCRIPTION:Conference site: https://wacv.thecvf.com/\nReputation score: 7
 LOCATION:Buena Vista\, FL\, USA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AAAI 2027 — Author feedback window end
-DTSTART:20261026T115959Z
-DTEND:20261026T115959Z
-DTSTAMP:20261026T115959Z
-UID:aaai27-rebuttal_end@conferencewatcher
-DESCRIPTION:Conference site: https://aaai.org/conference/aaai/aaai-27/\nRe
- putation score: 92/100\nTopics: computer science\, machine learning\, big 
- data\, large language models\, neural networks\, transformer models\, mult
- i-modal models
-LOCATION:Montréal\, Canada
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AAAI 2027 — Final acceptance/rejection notices
 DTSTART:20261201T115959Z
 DTEND:20261201T115959Z
@@ -362,17 +350,6 @@ DESCRIPTION:Conference site: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
  \nReputation score: 70/100\nTopics: computer science\, machine learning\, 
  neural networks\, transformer models\, multi-modal models
 LOCATION:Hanoi\, Vietnam
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WWW 2027 — Paper Submission
-DTSTART:20261026T115959Z
-DTEND:20261026T115959Z
-DTSTAMP:20261026T115959Z
-UID:www27-submission@conferencewatcher
-DESCRIPTION:Conference site: https://www2027.thewebconf.org/\nReputation s
- core: 21/100\nTopics: computer science\, machine learning\, big data\, neu
- ral networks\, transformer models\, multi-modal models
-LOCATION:Dublin\, Ireland
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WWW 2027 — Rebuttal Period Start
