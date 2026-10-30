@@ -69,17 +69,6 @@ DESCRIPTION:Conference site: https://www.wsdm-conference.org/2027/\nReputa
 LOCATION:Hong Kong\, Hong Kong
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3DV 2027 — Preliminary Notification
-DTSTART:20261027T180000Z
-DTEND:20261027T180000Z
-DTSTAMP:20261027T180000Z
-UID:3dv27-notification@conferencewatcher
-DESCRIPTION:Conference site: https://3dvconf.github.io/2027/\nReputation s
- core: 38/100\nTopics: computer science\, machine learning\, neural network
- s\, transformer models\, multi-modal models
-LOCATION:Thessaloniki\, Greece
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:3DV 2027 — Final Notification
 DTSTART:20261202T180000Z
 DTEND:20261202T180000Z
