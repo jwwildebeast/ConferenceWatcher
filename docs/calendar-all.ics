@@ -4,17 +4,6 @@ PRODID:-//ConferenceWatcher//conferencewatcher//
 X-WR-CALNAME:ConferenceWatcher -- All Tracked Deadlines
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:WACV 2027 — Camera Ready Both Rounds
-DTSTART:20261103T115959Z
-DTEND:20261103T115959Z
-DTSTAMP:20261103T115959Z
-UID:wacv27-camera_ready@conferencewatcher
-DESCRIPTION:Conference site: https://wacv.thecvf.com/\nReputation score: 7
- 3/100\nTopics: computer science\, machine learning\, neural networks\, tra
- nsformer models\, multi-modal models
-LOCATION:Buena Vista\, FL\, USA
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AAAI 2027 — Final acceptance/rejection notices
 DTSTART:20261201T115959Z
 DTEND:20261201T115959Z
@@ -37,16 +26,6 @@ DESCRIPTION:Conference site: https://aaai.org/conference/aaai/aaai-27/\nRe
  data\, large language models\, neural networks\, transformer models\, mult
  i-modal models
 LOCATION:Montréal\, Canada
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WSDM 2027 — Author notification (full papers)
-DTSTART:20261103T115959Z
-DTEND:20261103T115959Z
-DTSTAMP:20261103T115959Z
-UID:wsdm27-notification@conferencewatcher
-DESCRIPTION:Conference site: https://www.wsdm-conference.org/2027/\nReputa
- tion score: 70/100\nTopics: computer science\, big data
-LOCATION:Hong Kong\, Hong Kong
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WSDM 2027 — Paper submission (short papers)
@@ -78,17 +57,6 @@ DESCRIPTION:Conference site: https://3dvconf.github.io/2027/\nReputation s
  core: 38/100\nTopics: computer science\, machine learning\, neural network
  s\, transformer models\, multi-modal models
 LOCATION:Thessaloniki\, Greece
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECIR 2027 — Demo / Doctoral Consortium paper / Industry Day / tu
- torial proposal / resource paper deadline
-DTSTART:20261103T115959Z
-DTEND:20261103T115959Z
-DTSTAMP:20261103T115959Z
-UID:ecir27-submission@conferencewatcher
-DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
- : 21/100\nTopics: computer science\, big data
-LOCATION:Southampton\, United Kingdom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ECIR 2027 — Notification of acceptance
