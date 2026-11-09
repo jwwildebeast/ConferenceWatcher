@@ -99,16 +99,6 @@ DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
 LOCATION:Southampton\, United Kingdom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CHI 2027 — Reviews Released
-DTSTART:20261106T115959Z
-DTEND:20261106T115959Z
-DTSTAMP:20261106T115959Z
-UID:chi27-review_release@conferencewatcher
-DESCRIPTION:Conference site: https://chi2027.acm.org/\nReputation score: 3
- 4/100\nTopics: computer science
-LOCATION:Pittsburgh\, United States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHI 2027 — Resubmission Due
 DTSTART:20261204T115959Z
 DTEND:20261204T115959Z
@@ -159,17 +149,6 @@ DESCRIPTION:Conference site: https://2027.ieee-icra.org/\nReputation score
  : 34/100\nTopics: computer science\, machine learning\, neural networks\, 
  transformer models\, multi-modal models
 LOCATION:Seoul\, South Korea
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ICLR 2027 — Reviews Released
-DTSTART:20261106T115959Z
-DTEND:20261106T115959Z
-DTSTAMP:20261106T115959Z
-UID:iclr27-review_release@conferencewatcher
-DESCRIPTION:Conference site: https://iclr.cc/Conferences/2027\nReputation 
- score: 51/100\nTopics: computer science\, machine learning\, large languag
- e models\, neural networks\, transformer models\, multi-modal models
-LOCATION:San Francisco\, United States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ICLR 2027 — Author-Reviewer Discussion End
