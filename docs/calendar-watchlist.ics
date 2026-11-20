@@ -28,16 +28,6 @@ DESCRIPTION:Conference site: https://aaai.org/conference/aaai/aaai-27/\nRe
 LOCATION:Montréal\, Canada
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WSDM 2027 — Paper submission (short papers)
-DTSTART:20261118T115959Z
-DTEND:20261118T115959Z
-DTSTAMP:20261118T115959Z
-UID:wsdm27-paper@conferencewatcher
-DESCRIPTION:Conference site: https://www.wsdm-conference.org/2027/\nReputa
- tion score: 70/100\nTopics: computer science\, big data
-LOCATION:Hong Kong\, Hong Kong
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WSDM 2027 — Author notification (short papers)
 DTSTART:20261219T115959Z
 DTEND:20261219T115959Z
