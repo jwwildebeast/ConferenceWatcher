@@ -141,17 +141,6 @@ DESCRIPTION:Conference site: https://2027.ieee-icra.org/\nReputation score
 LOCATION:Seoul\, South Korea
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICLR 2027 — Author-Reviewer Discussion End
-DTSTART:20261119T115959Z
-DTEND:20261119T115959Z
-DTSTAMP:20261119T115959Z
-UID:iclr27-rebuttal_end@conferencewatcher
-DESCRIPTION:Conference site: https://iclr.cc/Conferences/2027\nReputation 
- score: 51/100\nTopics: computer science\, machine learning\, large languag
- e models\, neural networks\, transformer models\, multi-modal models
-LOCATION:San Francisco\, United States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ICLR 2027 — Final Decisions
 DTSTART:20261217T115959Z
 DTEND:20261217T115959Z
