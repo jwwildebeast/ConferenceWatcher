@@ -1,5 +1,9 @@
 # ConferenceWatcher
 
+**[Live site →](https://jwwildebeast.github.io/ConferenceWatcher/)**
+
+![Calendar view showing upcoming conference deadlines](assets/calendar-screenshot.png)
+
 Automatically tracks conference submission deadlines across industrial &
 systems engineering, computer science, and AI — scored by reputation,
 refreshed on a schedule, with every change recorded. Published as a static
