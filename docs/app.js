@@ -14,11 +14,49 @@ function scoreColor(score) {
   return "var(--low)";
 }
 
+// Friendly names for deadline `type` values, matching scripts/build_ics.py's
+// DEADLINE_LABELS so the site and the .ics feeds read the same way.
+const DEADLINE_LABELS = {
+  abstract: "Abstract",
+  paper: "Paper",
+  submission: "Submission",
+  notification: "Notification",
+  camera_ready: "Camera-Ready",
+  "camera-ready": "Camera-Ready",
+  supplementary: "Supplementary",
+  registration: "Registration",
+  rebuttal_start: "Rebuttal Opens",
+  rebuttal_end: "Rebuttal Closes",
+  rebuttal: "Rebuttal",
+  rebuttal_and_revision: "Rebuttal & Revision",
+  review_release: "Reviews Released",
+  commitment_deadline: "Commitment",
+  withdrawal: "Withdrawal",
+  author_response: "Author Response",
+  "first-notification": "First Notification",
+  "final-notification": "Final Notification",
+  "revision-deadline": "Revision",
+  reviewer_registration: "Reviewer Registration",
+  deadline: "Deadline",
+};
+
+function deadlineLabel(d) {
+  if (d.label) return d.label;
+  const key = d.type || "";
+  if (DEADLINE_LABELS[key]) return DEADLINE_LABELS[key];
+  return key.replace(/[_-]+/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
+function sortedDeadlines(record) {
+  return (record.deadlines || [])
+    .filter((d) => d.when)
+    .slice()
+    .sort((a, b) => new Date(a.when) - new Date(b.when));
+}
+
 function nextDeadline(record) {
   const now = new Date();
-  const upcoming = (record.deadlines || [])
-    .filter((d) => d.when && new Date(d.when) >= now)
-    .sort((a, b) => new Date(a.when) - new Date(b.when));
+  const upcoming = sortedDeadlines(record).filter((d) => new Date(d.when) >= now);
   return upcoming[0] || null;
 }
 
@@ -33,6 +71,38 @@ function fmtDate(iso) {
     month: "short",
     day: "numeric",
   });
+}
+
+function renderDeadlinesCell(record) {
+  const all = sortedDeadlines(record);
+  if (!all.length) return "–";
+
+  const now = new Date();
+  const nd = nextDeadline(record);
+
+  const rowHtml = (d) => {
+    const isPast = new Date(d.when) < now;
+    const isNext = nd && d.type === nd.type && d.when === nd.when;
+    const cls = ["dl-row", isPast ? "dl-row--past" : "", isNext ? "dl-row--next" : ""]
+      .filter(Boolean)
+      .join(" ");
+    return `<div class="${cls}"><span class="dl-label">${deadlineLabel(d)}</span><span class="dl-date">${fmtDate(d.when)}</span></div>`;
+  };
+
+  if (all.length === 1) {
+    return rowHtml(all[0]);
+  }
+
+  const summary = nd
+    ? `${fmtDate(nd.when)} <span class="basis-manual">${daysUntil(nd.when)}d · ${deadlineLabel(nd)}</span>`
+    : `${fmtDate(all[all.length - 1].when)} <span class="basis-manual">past</span>`;
+
+  return `
+    <details class="dl-details">
+      <summary>${summary}</summary>
+      <div class="dl-list">${all.map(rowHtml).join("")}</div>
+    </details>
+  `;
 }
 
 function matchesFilters(record) {
@@ -80,7 +150,6 @@ function render() {
 
   for (const r of rows) {
     const tr = document.createElement("tr");
-    const nd = nextDeadline(r);
     const score = r.reputation?.score ?? "–";
     const basisNote = r.basis === "manual" ? '<div class="basis-manual">manual score</div>' : "";
 
@@ -89,7 +158,7 @@ function render() {
         <a class="conf-link" href="${r.link || "#"}" target="_blank" rel="noopener">${r.title} ${r.year}</a>
         <div>${(r.topics || []).map((t) => `<span class="topic-tag">${t}</span>`).join("")}</div>
       </td>
-      <td>${nd ? `${fmtDate(nd.when)} <div class="basis-manual">${daysUntil(nd.when)}d · ${nd.label || nd.type}</div>` : "–"}</td>
+      <td>${renderDeadlinesCell(r)}</td>
       <td>${r.place || "–"}</td>
       <td><span class="score-badge" style="background:${scoreColor(score)}">${score}</span>${basisNote}</td>
     `;
@@ -162,9 +231,11 @@ function renderCalendar() {
     const chips = dayItems
       .map(({ record, deadline }) => {
         const score = record.reputation?.score ?? 0;
-        const label = deadline.label || deadline.type;
-        const title = `${record.title} ${record.year} — ${label}`;
-        return `<a class="cal-event" style="background:${scoreColor(score)}" title="${title}" href="${record.link || "#"}" target="_blank" rel="noopener">${record.title} — ${label}</a>`;
+        const label = deadlineLabel(deadline);
+        const isPast = new Date(deadline.when) < today;
+        const title = `${record.title} ${record.year} — ${label}${isPast ? " (passed)" : ""}`;
+        const cls = `cal-event${isPast ? " cal-event--past" : ""}`;
+        return `<a class="${cls}" style="background:${scoreColor(score)}" title="${title}" href="${record.link || "#"}" target="_blank" rel="noopener">${record.title} — ${label}</a>`;
       })
       .join("");
 

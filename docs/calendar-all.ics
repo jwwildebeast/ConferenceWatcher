@@ -4,74 +4,6 @@ PRODID:-//ConferenceWatcher//conferencewatcher//
 X-WR-CALNAME:ConferenceWatcher -- All Tracked Deadlines
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:CoRL 2026 — Camera-ready deadline
-DTSTART:20261013T115959Z
-DTEND:20261013T115959Z
-DTSTAMP:20261013T115959Z
-UID:corl26-camera_ready@conferencewatcher
-DESCRIPTION:Conference site: https://www.corl.org/\nReputation score: 21/1
- 00\nTopics: computer science\, machine learning\, neural networks\, transf
- ormer models\, multi-modal models
-LOCATION:Austin\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WACV 2027 — Round 2 Reviews and Final Decisions to Authors
-DTSTART:20261010T115959Z
-DTEND:20261010T115959Z
-DTSTAMP:20261010T115959Z
-UID:wacv27-notification@conferencewatcher
-DESCRIPTION:Conference site: https://wacv.thecvf.com/\nReputation score: 7
- 3/100\nTopics: computer science\, machine learning\, neural networks\, tra
- nsformer models\, multi-modal models
-LOCATION:Buena Vista\, FL\, USA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WACV 2027 — Round 1 Final Decisions Released to Authors
-DTSTART:20261010T115959Z
-DTEND:20261010T115959Z
-DTSTAMP:20261010T115959Z
-UID:wacv27-notification@conferencewatcher
-DESCRIPTION:Conference site: https://wacv.thecvf.com/\nReputation score: 7
- 3/100\nTopics: computer science\, machine learning\, neural networks\, tra
- nsformer models\, multi-modal models
-LOCATION:Buena Vista\, FL\, USA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WACV 2027 — Camera Ready Both Rounds
-DTSTART:20261103T115959Z
-DTEND:20261103T115959Z
-DTSTAMP:20261103T115959Z
-UID:wacv27-camera_ready@conferencewatcher
-DESCRIPTION:Conference site: https://wacv.thecvf.com/\nReputation score: 7
- 3/100\nTopics: computer science\, machine learning\, neural networks\, tra
- nsformer models\, multi-modal models
-LOCATION:Buena Vista\, FL\, USA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AAAI 2027 — Author feedback window start
-DTSTART:20261020T115959Z
-DTEND:20261020T115959Z
-DTSTAMP:20261020T115959Z
-UID:aaai27-rebuttal_start@conferencewatcher
-DESCRIPTION:Conference site: https://aaai.org/conference/aaai/aaai-27/\nRe
- putation score: 92/100\nTopics: computer science\, machine learning\, big 
- data\, large language models\, neural networks\, transformer models\, mult
- i-modal models
-LOCATION:Montréal\, Canada
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AAAI 2027 — Author feedback window end
-DTSTART:20261026T115959Z
-DTEND:20261026T115959Z
-DTSTAMP:20261026T115959Z
-UID:aaai27-rebuttal_end@conferencewatcher
-DESCRIPTION:Conference site: https://aaai.org/conference/aaai/aaai-27/\nRe
- putation score: 92/100\nTopics: computer science\, machine learning\, big 
- data\, large language models\, neural networks\, transformer models\, mult
- i-modal models
-LOCATION:Montréal\, Canada
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AAAI 2027 — Final acceptance/rejection notices
 DTSTART:20261201T115959Z
 DTEND:20261201T115959Z
@@ -96,26 +28,6 @@ DESCRIPTION:Conference site: https://aaai.org/conference/aaai/aaai-27/\nRe
 LOCATION:Montréal\, Canada
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WSDM 2027 — Author notification (full papers)
-DTSTART:20261103T115959Z
-DTEND:20261103T115959Z
-DTSTAMP:20261103T115959Z
-UID:wsdm27-notification@conferencewatcher
-DESCRIPTION:Conference site: https://www.wsdm-conference.org/2027/\nReputa
- tion score: 70/100\nTopics: computer science\, big data
-LOCATION:Hong Kong\, Hong Kong
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WSDM 2027 — Paper submission (short papers)
-DTSTART:20261118T115959Z
-DTEND:20261118T115959Z
-DTSTAMP:20261118T115959Z
-UID:wsdm27-paper@conferencewatcher
-DESCRIPTION:Conference site: https://www.wsdm-conference.org/2027/\nReputa
- tion score: 70/100\nTopics: computer science\, big data
-LOCATION:Hong Kong\, Hong Kong
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WSDM 2027 — Author notification (short papers)
 DTSTART:20261219T115959Z
 DTEND:20261219T115959Z
@@ -124,17 +36,6 @@ UID:wsdm27-notification@conferencewatcher
 DESCRIPTION:Conference site: https://www.wsdm-conference.org/2027/\nReputa
  tion score: 70/100\nTopics: computer science\, big data
 LOCATION:Hong Kong\, Hong Kong
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3DV 2027 — Preliminary Notification
-DTSTART:20261027T180000Z
-DTEND:20261027T180000Z
-DTSTAMP:20261027T180000Z
-UID:3dv27-notification@conferencewatcher
-DESCRIPTION:Conference site: https://3dvconf.github.io/2027/\nReputation s
- core: 38/100\nTopics: computer science\, machine learning\, neural network
- s\, transformer models\, multi-modal models
-LOCATION:Thessaloniki\, Greece
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3DV 2027 — Final Notification
@@ -146,77 +47,6 @@ DESCRIPTION:Conference site: https://3dvconf.github.io/2027/\nReputation s
  core: 38/100\nTopics: computer science\, machine learning\, neural network
  s\, transformer models\, multi-modal models
 LOCATION:Thessaloniki\, Greece
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECIR 2027 — Full paper submission deadline
-DTSTART:20261006T115959Z
-DTEND:20261006T115959Z
-DTSTAMP:20261006T115959Z
-UID:ecir27-paper@conferencewatcher
-DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
- : 21/100\nTopics: computer science\, big data
-LOCATION:Southampton\, United Kingdom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECIR 2027 — Short paper abstract deadline
-DTSTART:20261006T115959Z
-DTEND:20261006T115959Z
-DTSTAMP:20261006T115959Z
-UID:ecir27-abstract@conferencewatcher
-DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
- : 21/100\nTopics: computer science\, big data
-LOCATION:Southampton\, United Kingdom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECIR 2027 — Short paper submission deadline
-DTSTART:20261013T115959Z
-DTEND:20261013T115959Z
-DTSTAMP:20261013T115959Z
-UID:ecir27-submission@conferencewatcher
-DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
- : 21/100\nTopics: computer science\, big data
-LOCATION:Southampton\, United Kingdom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECIR 2027 — Reproducibility abstract deadline
-DTSTART:20261013T115959Z
-DTEND:20261013T115959Z
-DTSTAMP:20261013T115959Z
-UID:ecir27-abstract@conferencewatcher
-DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
- : 21/100\nTopics: computer science\, big data
-LOCATION:Southampton\, United Kingdom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECIR 2027 — Reproducibility paper submission deadline
-DTSTART:20261020T115959Z
-DTEND:20261020T115959Z
-DTSTAMP:20261020T115959Z
-UID:ecir27-submission@conferencewatcher
-DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
- : 21/100\nTopics: computer science\, big data
-LOCATION:Southampton\, United Kingdom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECIR 2027 — Doctoral Consortium abstract deadline
-DTSTART:20261027T115959Z
-DTEND:20261027T115959Z
-DTSTAMP:20261027T115959Z
-UID:ecir27-abstract@conferencewatcher
-DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
- : 21/100\nTopics: computer science\, big data
-LOCATION:Southampton\, United Kingdom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECIR 2027 — Demo / Doctoral Consortium paper / Industry Day / tu
- torial proposal / resource paper deadline
-DTSTART:20261103T115959Z
-DTEND:20261103T115959Z
-DTSTAMP:20261103T115959Z
-UID:ecir27-submission@conferencewatcher
-DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
- : 21/100\nTopics: computer science\, big data
-LOCATION:Southampton\, United Kingdom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ECIR 2027 — Notification of acceptance
@@ -257,16 +87,6 @@ UID:ecir27-registration@conferencewatcher
 DESCRIPTION:Conference site: https://www.ecir2027.co.uk/\nReputation score
  : 21/100\nTopics: computer science\, big data
 LOCATION:Southampton\, United Kingdom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHI 2027 — Reviews Released
-DTSTART:20261106T115959Z
-DTEND:20261106T115959Z
-DTSTAMP:20261106T115959Z
-UID:chi27-review_release@conferencewatcher
-DESCRIPTION:Conference site: https://chi2027.acm.org/\nReputation score: 3
- 4/100\nTopics: computer science
-LOCATION:Pittsburgh\, United States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHI 2027 — Resubmission Due
@@ -321,28 +141,6 @@ DESCRIPTION:Conference site: https://2027.ieee-icra.org/\nReputation score
 LOCATION:Seoul\, South Korea
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICLR 2027 — Reviews Released
-DTSTART:20261106T115959Z
-DTEND:20261106T115959Z
-DTSTAMP:20261106T115959Z
-UID:iclr27-review_release@conferencewatcher
-DESCRIPTION:Conference site: https://iclr.cc/Conferences/2027\nReputation 
- score: 51/100\nTopics: computer science\, machine learning\, large languag
- e models\, neural networks\, transformer models\, multi-modal models
-LOCATION:San Francisco\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ICLR 2027 — Author-Reviewer Discussion End
-DTSTART:20261119T115959Z
-DTEND:20261119T115959Z
-DTSTAMP:20261119T115959Z
-UID:iclr27-rebuttal_end@conferencewatcher
-DESCRIPTION:Conference site: https://iclr.cc/Conferences/2027\nReputation 
- score: 51/100\nTopics: computer science\, machine learning\, large languag
- e models\, neural networks\, transformer models\, multi-modal models
-LOCATION:San Francisco\, United States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ICLR 2027 — Final Decisions
 DTSTART:20261217T115959Z
 DTEND:20261217T115959Z
@@ -352,16 +150,6 @@ DESCRIPTION:Conference site: https://iclr.cc/Conferences/2027\nReputation
  score: 51/100\nTopics: computer science\, machine learning\, large languag
  e models\, neural networks\, transformer models\, multi-modal models
 LOCATION:San Francisco\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eurographics 2027 — Reviews released
-DTSTART:20261123T235959Z
-DTEND:20261123T235959Z
-DTSTAMP:20261123T235959Z
-UID:eurographics27-review_release@conferencewatcher
-DESCRIPTION:Conference site: https://eg2027.isti.cnr.it/\nReputation score
- : 21/100\nTopics: computer science
-LOCATION:Lucca\, Italy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eurographics 2027 — Rebuttal due
@@ -415,28 +203,6 @@ DESCRIPTION:Conference site: https://eg2027.isti.cnr.it/\nReputation score
 LOCATION:Lucca\, Italy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AAMAS 2027 — Paper submission
-DTSTART:20261009T115959Z
-DTEND:20261009T115959Z
-DTSTAMP:20261009T115959Z
-UID:aamas27-paper@conferencewatcher
-DESCRIPTION:Conference site: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
- \nReputation score: 70/100\nTopics: computer science\, machine learning\, 
- neural networks\, transformer models\, multi-modal models
-LOCATION:Hanoi\, Vietnam
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AAMAS 2027 — Rebuttal period start
-DTSTART:20261121T115959Z
-DTEND:20261121T115959Z
-DTSTAMP:20261121T115959Z
-UID:aamas27-rebuttal_start@conferencewatcher
-DESCRIPTION:Conference site: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
- \nReputation score: 70/100\nTopics: computer science\, machine learning\, 
- neural networks\, transformer models\, multi-modal models
-LOCATION:Hanoi\, Vietnam
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AAMAS 2027 — Rebuttal period end
 DTSTART:20261125T115959Z
 DTEND:20261125T115959Z
@@ -468,39 +234,6 @@ DESCRIPTION:Conference site: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
  \nReputation score: 70/100\nTopics: computer science\, machine learning\, 
  neural networks\, transformer models\, multi-modal models
 LOCATION:Hanoi\, Vietnam
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NAACL 2027 — Paper Deadline
-DTSTART:20261013T115959Z
-DTEND:20261013T115959Z
-DTSTAMP:20261013T115959Z
-UID:naacl27-paper@conferencewatcher
-DESCRIPTION:Conference site: https://2027.naacl.org/\nReputation score: 73
- /100\nTopics: computer science\, large language models\, neural networks\,
-  transformer models\, multi-modal models
-LOCATION:San Francisco\, USA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WWW 2027 — Abstract Submission
-DTSTART:20261019T115959Z
-DTEND:20261019T115959Z
-DTSTAMP:20261019T115959Z
-UID:www27-abstract@conferencewatcher
-DESCRIPTION:Conference site: https://www2027.thewebconf.org/\nReputation s
- core: 21/100\nTopics: computer science\, machine learning\, big data\, neu
- ral networks\, transformer models\, multi-modal models
-LOCATION:Dublin\, Ireland
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WWW 2027 — Paper Submission
-DTSTART:20261026T115959Z
-DTEND:20261026T115959Z
-DTSTAMP:20261026T115959Z
-UID:www27-submission@conferencewatcher
-DESCRIPTION:Conference site: https://www2027.thewebconf.org/\nReputation s
- core: 21/100\nTopics: computer science\, machine learning\, big data\, neu
- ral networks\, transformer models\, multi-modal models
-LOCATION:Dublin\, Ireland
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WWW 2027 — Rebuttal Period Start

@@ -80,3 +80,39 @@ def parse_when(date_str: str, tz_name: str | None) -> str | None:
 
 def utcnow_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
+
+
+# How long after a conference-year record's last known date we keep it around
+# before treating it as concluded and dropping it from the tracked dataset.
+# Small grace window so a just-finished conference doesn't vanish instantly.
+CONCLUDED_GRACE = timedelta(days=2)
+
+
+def is_concluded(record: dict, now: datetime | None = None, grace: timedelta = CONCLUDED_GRACE) -> bool:
+    """A conference-year record is concluded once its event has ended (or, if
+    no event end date is known, once every deadline it has is in the past).
+
+    This is the guard against the dataset accumulating past editions forever:
+    upstream aggregator files keep old years' entries in the same file as the
+    current one, and without this check they'd never be pruned -- showing up
+    as stale "expired" entries in the calendar indefinitely.
+    """
+    now = now or datetime.now(timezone.utc)
+    cutoff = now - grace
+
+    end = (record.get("date") or {}).get("end")
+    if end:
+        try:
+            end_dt = datetime.strptime(end, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            return end_dt < cutoff
+        except ValueError:
+            pass  # fall through to deadline-based check
+
+    deadlines = [d["when"] for d in record.get("deadlines") or [] if d.get("when")]
+    if deadlines:
+        latest = max(datetime.fromisoformat(w) for w in deadlines)
+        return latest < cutoff
+
+    # No event end date and no deadlines at all -- nothing says this is over,
+    # so keep it (e.g. an upcoming conference whose deadlines aren't verified yet).
+    return False

@@ -204,6 +204,12 @@ main {
   text-overflow: ellipsis;
 }
 
+.cal-event--past {
+  opacity: 0.45;
+  filter: grayscale(40%);
+  text-decoration: line-through;
+}
+
 @media (max-width: 640px) {
   .cal-cell { min-height: 60px; }
   .calendar-nav span { min-width: 120px; }
@@ -283,6 +289,36 @@ a.conf-link:hover { color: var(--accent); }
 }
 
 .basis-manual { color: var(--text-dim); font-size: 0.72rem; }
+
+.dl-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 0.82rem;
+}
+.dl-row .dl-label { color: var(--text-dim); }
+.dl-row--past { color: var(--text-dim); text-decoration: line-through; }
+.dl-row--past .dl-label { text-decoration: line-through; }
+.dl-row--next { font-weight: 600; }
+
+.dl-details summary {
+  cursor: pointer;
+  list-style: none;
+}
+.dl-details summary::-webkit-details-marker { display: none; }
+.dl-details summary::after {
+  content: " ▾";
+  color: var(--text-dim);
+  font-size: 0.72rem;
+}
+.dl-details .dl-list {
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid var(--panel-border);
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
 
 section.changelog {
   margin-top: 40px;
