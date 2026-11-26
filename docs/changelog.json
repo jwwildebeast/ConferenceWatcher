@@ -1,675 +1,1171 @@
 [
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "marcon-2026",
     "conference": "MARCON 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icomp26",
     "conference": "ICOMP 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "emnlp26ind",
     "conference": "EMNLP (Industry Track) 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "inlg2026",
     "conference": "INLG 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "emnlp26sys",
     "conference": "EMNLP (System Demonstrations Track) 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "hicss27",
     "conference": "HICSS 2027"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "euvip26",
     "conference": "EUVIP 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icdm26",
     "conference": "ICDM 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "sibgrapi26",
     "conference": "SIBGRAPI 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "emnlp26",
     "conference": "EMNLP 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "corl26",
     "conference": "CoRL 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "cikm26",
     "conference": "CIKM 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "rulemlrr26",
     "conference": "RuleML+RR 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "collas26",
     "conference": "CoLLAs 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icann26",
     "conference": "ICANN 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "colm26",
     "conference": "COLM 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "acm26",
     "conference": "ACM MM 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "ecmlpkdd26",
     "conference": "ECML PKDD 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "iros26",
     "conference": "IROS 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "rlc26",
     "conference": "RLC 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "uai26",
     "conference": "UAI 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "interspeech2026",
     "conference": "Interspeech 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "conll26",
     "conference": "CoNLL 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "mathai26",
     "conference": "MathAI 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "eccv26",
     "conference": "ECCV 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icdar2026",
     "conference": "ICDAR 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "miccai26",
     "conference": "MICCAI 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "colt26",
     "conference": "COLT 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "chil26",
     "conference": "CHIL 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "sgp26",
     "conference": "SGP 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "ijcnn26",
     "conference": "IJCNN 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "cec2026",
     "conference": "CEC 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "bis2026",
     "conference": "BIS 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "rss26",
     "conference": "RSS 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icml26",
     "conference": "ICML 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "sigir26",
     "conference": "SIGIR 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "siggraph26",
     "conference": "SIGGRAPH 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "ijcai26",
     "conference": "IJCAI 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "ecai26",
     "conference": "ECAI 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "facct26",
     "conference": "FAccT 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "acl26",
     "conference": "ACL 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "cpal26",
     "conference": "CPAL 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "esann26",
     "conference": "ESANN 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "iise-annual-2026",
     "conference": "IISE Annual Conference & Expo 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "cvpr26",
     "conference": "CVPR 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "nlbse26",
     "conference": "NLBSE 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "lrec26",
     "conference": "LREC 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "iui26",
     "conference": "IUI 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "alt2026",
     "conference": "ALT 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "aamas26",
     "conference": "AAMAS 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "www26",
     "conference": "WWW 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "fg26",
     "conference": "FG 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "ecir26",
     "conference": "ECIR 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "aistats26",
     "conference": "AISTATS 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "eurographics26",
     "conference": "Eurographics 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "iclr26",
     "conference": "ICLR 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icassp26",
     "conference": "ICASSP 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icassp25",
     "conference": "ICASSP 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icra26",
     "conference": "ICRA 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "chi26",
     "conference": "CHI 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "wsdm26",
     "conference": "WSDM 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "ijcnlpaacl25",
     "conference": "IJCNLP & AACL 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "aaai26",
     "conference": "AAAI 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "kdd26",
     "conference": "KDD 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "wacv26",
     "conference": "WACV 2026"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "emnlp25sys",
     "conference": "EMNLP (System Demonstrations Track) 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "emnlp25ind",
     "conference": "EMNLP (Industry Track) 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icdm25",
     "conference": "ICDM 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "cikm25",
     "conference": "CIKM 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "neurips25",
     "conference": "NeurIPS 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "corl25",
     "conference": "CoRL 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "ecai25",
     "conference": "ECAI 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icomp25",
     "conference": "ICOMP 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "acm25",
     "conference": "ACM MM 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icann25",
     "conference": "ICANN 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "colm25",
     "conference": "COLM 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "ksem25",
     "conference": "KSEM 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "conll25",
     "conference": "CoNLL 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "ecmlpkdd25",
     "conference": "ECML PKDD 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "iccv25",
     "conference": "ICCV 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "iros25",
     "conference": "IROS 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icdar2025",
     "conference": "ICDAR 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "collas25",
     "conference": "CoLLAs 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "rlc25",
     "conference": "RLC 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "acl25",
     "conference": "ACL 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "mathai25",
     "conference": "MathAI 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "uai25",
     "conference": "UAI 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "colt25",
     "conference": "COLT 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "sgp25",
     "conference": "SGP 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "kdd25",
     "conference": "KDD 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "ijcnn2025",
     "conference": "IJCNN 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icml25",
     "conference": "ICML 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "rss25",
     "conference": "RSS 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "ijcai25",
     "conference": "IJCAI 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "siggraph25",
     "conference": "SIGGRAPH 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "cec2025",
     "conference": "CEC 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "cpal25",
     "conference": "CPAL 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "esann25",
     "conference": "ESANN 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "cvpr25",
     "conference": "CVPR 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "naacl25",
     "conference": "NAACL 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "aamas25",
     "conference": "AAMAS 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "aistats25",
     "conference": "AISTATS 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "eurographics25",
     "conference": "Eurographics 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "ecir25",
     "conference": "ECIR 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "alt2025",
     "conference": "ALT 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "iclr25",
     "conference": "ICLR 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "coling25",
     "conference": "COLING 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "icra25",
     "conference": "ICRA 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "chi25",
     "conference": "CHI 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "aaai25",
     "conference": "AAAI 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "wsdm25",
     "conference": "WSDM 2025"
   },
   {
-    "timestamp": "2026-11-26T05:52:17.927480+00:00",
+    "timestamp": "2026-11-26T06:07:15.059426+00:00",
     "event": "removed",
     "conference_id": "wacv25",
     "conference": "WACV 2025"
+  },
+  {
+    "timestamp": "2026-11-25T13:08:57.030158+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-24T13:08:54.001573+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-23T13:09:57.933219+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-22T13:07:33.779818+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-21T13:07:26.414435+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-20T13:08:22.752948+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-19T13:08:30.185966+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-19T13:08:30.185966+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "iise-annual",
+    "conference": "IISE Annual Conference & Expo",
+    "url": "https://www.iise.org/annual/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-18T13:08:31.153830+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-17T13:09:00.651277+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "wsc",
+    "conference": "WSC",
+    "url": "https://meetings.informs.org/wordpress/wsc2026/call-for-papers/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-17T13:09:00.651277+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "iise-annual",
+    "conference": "IISE Annual Conference & Expo",
+    "url": "https://www.iise.org/annual/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-16T13:20:31.080542+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "marcon",
+    "conference": "MARCON",
+    "url": "https://marcon.utk.edu/homepage/call-for-abstracts/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-13T13:08:07.667129+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-13T13:08:07.667129+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "marcon",
+    "conference": "MARCON",
+    "url": "https://marcon.utk.edu/homepage/call-for-abstracts/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-12T13:08:16.448128+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-11T13:08:23.648016+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-11T13:08:23.648016+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "wsc",
+    "conference": "WSC",
+    "url": "https://meetings.informs.org/wordpress/wsc2026/call-for-papers/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-11T13:08:23.648016+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "marcon",
+    "conference": "MARCON",
+    "url": "https://marcon.utk.edu/homepage/call-for-abstracts/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-10T13:08:17.468610+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-10T13:08:17.468610+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "marcon",
+    "conference": "MARCON",
+    "url": "https://marcon.utk.edu/homepage/call-for-abstracts/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-09T13:09:50.658747+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-09T13:09:50.658747+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "iise-annual",
+    "conference": "IISE Annual Conference & Expo",
+    "url": "https://www.iise.org/annual/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-07T13:06:56.363726+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-07T13:06:56.363726+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "poms-annual",
+    "conference": "POMS Annual Conference",
+    "url": "https://www.poms.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-06T13:08:45.626231+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-05T13:08:46.639837+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-04T13:08:19.534694+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-03T13:08:58.573975+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-02T13:10:02.849317+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-11-01T13:07:34.324709+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-31T13:07:23.872809+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-30T13:09:58.271210+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-29T13:10:15.384218+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-28T13:10:18.740090+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-27T13:17:26.551460+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-26T14:43:46.881339+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-25T13:10:12.572128+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-24T13:11:05.991160+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-23T13:11:51.667523+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-22T13:13:37.794298+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-21T13:14:13.094160+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-21T13:14:13.094160+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "informs-annual",
+    "conference": "INFORMS Annual Meeting",
+    "url": "https://meetings.informs.org/wordpress/annual/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-20T13:14:04.409020+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-18T13:10:10.660070+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-17T13:10:30.248392+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-16T13:12:50.816561+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-15T13:13:54.742557+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-15T13:13:54.742557+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "informs-annual",
+    "conference": "INFORMS Annual Meeting",
+    "url": "https://meetings.informs.org/wordpress/annual/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-14T13:11:36.764425+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-14T13:11:36.764425+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "poms-annual",
+    "conference": "POMS Annual Conference",
+    "url": "https://www.poms.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-14T13:11:36.764425+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "informs-annual",
+    "conference": "INFORMS Annual Meeting",
+    "url": "https://meetings.informs.org/wordpress/annual/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-13T13:22:05.867771+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-12T13:35:04.474937+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-11T13:12:48.005594+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-10T13:11:26.305967+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-09T13:16:30.796869+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-09T13:16:30.796869+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "informs-annual",
+    "conference": "INFORMS Annual Meeting",
+    "url": "https://meetings.informs.org/wordpress/annual/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-08T13:18:25.040532+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-07T13:17:43.961556+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-06T13:14:54.874183+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-06T13:14:54.874183+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "informs-annual",
+    "conference": "INFORMS Annual Meeting",
+    "url": "https://meetings.informs.org/wordpress/annual/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
+    "timestamp": "2026-10-05T13:20:29.891178+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
   },
   {
     "timestamp": "2026-10-05T11:41:24.884952+00:00",
@@ -828,377 +1324,5 @@
     "event": "added",
     "conference_id": "icdm26",
     "conference": "ICDM 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "sibgrapi26",
-    "conference": "SIBGRAPI 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "emnlp26",
-    "conference": "EMNLP 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "corl26",
-    "conference": "CoRL 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "cikm26",
-    "conference": "CIKM 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "rulemlrr26",
-    "conference": "RuleML+RR 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "neurips26",
-    "conference": "NeurIPS 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "collas26",
-    "conference": "CoLLAs 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "icann26",
-    "conference": "ICANN 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "colm26",
-    "conference": "COLM 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "acm26",
-    "conference": "ACM MM 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "ecmlpkdd26",
-    "conference": "ECML PKDD 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "iros26",
-    "conference": "IROS 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "rlc26",
-    "conference": "RLC 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "uai26",
-    "conference": "UAI 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "interspeech2026",
-    "conference": "Interspeech 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "conll26",
-    "conference": "CoNLL 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "mathai26",
-    "conference": "MathAI 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "eccv26",
-    "conference": "ECCV 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "icdar2026",
-    "conference": "ICDAR 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "miccai26",
-    "conference": "MICCAI 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "colt26",
-    "conference": "COLT 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "chil26",
-    "conference": "CHIL 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "sgp26",
-    "conference": "SGP 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "ijcnn26",
-    "conference": "IJCNN 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "cec2026",
-    "conference": "CEC 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "bis2026",
-    "conference": "BIS 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "rss26",
-    "conference": "RSS 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "icml26",
-    "conference": "ICML 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "sigir26",
-    "conference": "SIGIR 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "siggraph26",
-    "conference": "SIGGRAPH 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "ijcai26",
-    "conference": "IJCAI 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "ecai26",
-    "conference": "ECAI 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "facct26",
-    "conference": "FAccT 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "acl26",
-    "conference": "ACL 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "cpal26",
-    "conference": "CPAL 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "esann26",
-    "conference": "ESANN 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "iise-annual-2026",
-    "conference": "IISE Annual Conference & Expo 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "cvpr26",
-    "conference": "CVPR 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "nlbse26",
-    "conference": "NLBSE 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "lrec26",
-    "conference": "LREC 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "iui26",
-    "conference": "IUI 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "alt2026",
-    "conference": "ALT 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "aamas26",
-    "conference": "AAMAS 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "www26",
-    "conference": "WWW 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "fg26",
-    "conference": "FG 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "ecir26",
-    "conference": "ECIR 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "aistats26",
-    "conference": "AISTATS 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "eurographics26",
-    "conference": "Eurographics 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "iclr26",
-    "conference": "ICLR 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "icassp26",
-    "conference": "ICASSP 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "icassp25",
-    "conference": "ICASSP 2025"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "icra26",
-    "conference": "ICRA 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "chi26",
-    "conference": "CHI 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "wsdm26",
-    "conference": "WSDM 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "ijcnlpaacl25",
-    "conference": "IJCNLP & AACL 2025"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "aaai26",
-    "conference": "AAAI 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "kdd26",
-    "conference": "KDD 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "wacv26",
-    "conference": "WACV 2026"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "emnlp25sys",
-    "conference": "EMNLP (System Demonstrations Track) 2025"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "emnlp25ind",
-    "conference": "EMNLP (Industry Track) 2025"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "icdm25",
-    "conference": "ICDM 2025"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "cikm25",
-    "conference": "CIKM 2025"
   }
 ]
