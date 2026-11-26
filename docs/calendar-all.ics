@@ -152,16 +152,6 @@ DESCRIPTION:Conference site: https://iclr.cc/Conferences/2027\nReputation
 LOCATION:San Francisco\, United States
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eurographics 2027 — Reviews released
-DTSTART:20261123T235959Z
-DTEND:20261123T235959Z
-DTSTAMP:20261123T235959Z
-UID:eurographics27-review_release@conferencewatcher
-DESCRIPTION:Conference site: https://eg2027.isti.cnr.it/\nReputation score
- : 21/100\nTopics: computer science
-LOCATION:Lucca\, Italy
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eurographics 2027 — Rebuttal due
 DTSTART:20261130T235959Z
 DTEND:20261130T235959Z

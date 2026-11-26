@@ -1,4 +1,5 @@
 """Combine the aggregator feed and the curated seed list into one dataset."""
+from common import is_concluded
 from fetch_aggregators import fetch_all
 from score import apply_scores
 from seed import load_seed_records
@@ -11,6 +12,11 @@ def build_merged_records(aggregator_records: list[dict] | None = None) -> list[d
     )
     seed_records = load_seed_records()
     records = aggregator_records + seed_records
+
+    # Drop editions that have already concluded -- otherwise every past year
+    # an aggregator file has ever listed sticks around forever, cluttering
+    # the list view and showing up as "expired" entries on the calendar.
+    records = [r for r in records if not is_concluded(r)]
 
     apply_scores(records)
 

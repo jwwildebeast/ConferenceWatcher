@@ -13,3 +13,11 @@ software development and architecture
 neural networks
 transformer models
 multi-modal models
+
+
+CONFERENCES
+
+IISE
+MARCON
+INFORMS
+WINTER SIMULATION CONFERENCE
