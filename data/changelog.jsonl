@@ -304,3 +304,4 @@
 {"timestamp": "2026-11-26T06:07:15.059426+00:00", "event": "removed", "conference_id": "icomp26", "conference": "ICOMP 2026"}
 {"timestamp": "2026-11-26T06:07:15.059426+00:00", "event": "removed", "conference_id": "marcon-2026", "conference": "MARCON 2026"}
 {"timestamp": "2026-11-26T13:08:44.816437+00:00", "event": "seed_page_changed", "conference_id": "ieee-case", "conference": "IEEE CASE", "url": "https://2026.ieeecase.org/", "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"}
+{"timestamp": "2026-11-27T13:08:22.522600+00:00", "event": "seed_page_changed", "conference_id": "ieee-case", "conference": "IEEE CASE", "url": "https://2026.ieeecase.org/", "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"}

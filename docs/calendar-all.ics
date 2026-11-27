@@ -203,17 +203,6 @@ DESCRIPTION:Conference site: https://eg2027.isti.cnr.it/\nReputation score
 LOCATION:Lucca\, Italy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AAMAS 2027 — Rebuttal period end
-DTSTART:20261125T115959Z
-DTEND:20261125T115959Z
-DTSTAMP:20261125T115959Z
-UID:aamas27-rebuttal_end@conferencewatcher
-DESCRIPTION:Conference site: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
- \nReputation score: 70/100\nTopics: computer science\, machine learning\, 
- neural networks\, transformer models\, multi-modal models
-LOCATION:Hanoi\, Vietnam
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AAMAS 2027 — Author notification
 DTSTART:20261222T115959Z
 DTEND:20261222T115959Z
