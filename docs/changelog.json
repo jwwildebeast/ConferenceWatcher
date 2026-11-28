@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-11-28T13:07:11.875355+00:00",
+    "event": "seed_page_changed",
+    "conference_id": "ieee-case",
+    "conference": "IEEE CASE",
+    "url": "https://2026.ieeecase.org/",
+    "note": "page text changed -- verify deadlines by hand in seed_conferences.yml"
+  },
+  {
     "timestamp": "2026-11-27T13:08:22.522600+00:00",
     "event": "seed_page_changed",
     "conference_id": "ieee-case",
@@ -1322,11 +1330,5 @@
     "event": "added",
     "conference_id": "wacv27",
     "conference": "WACV 2027"
-  },
-  {
-    "timestamp": "2026-10-05T10:59:00.341922+00:00",
-    "event": "added",
-    "conference_id": "hicss27",
-    "conference": "HICSS 2027"
   }
 ]
